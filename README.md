@@ -17,19 +17,9 @@ pip install pandas matplotlib seaborn scikit-learn
 
 ## Quick Start
 1. Clone this repository:
-   bash
-   git clone https://github.com/your-username/IrisFlowerClassification.git
-   
-
-2. Navigate to the project directory:
-   bash
-   cd IrisFlowerClassification
-   
-
-3. Run the classification script:
-   bash
-   python classify_irises.py
-   
+   ```bash
+   git clone https://github.com/Manthan-1610/InfoaidTech_IrisFlowerClassification.git
+   ```
 
 ## Contribution Guidelines
 Contributions are welcome! If you'd like to add features, fix bugs, or improve anything, please follow these steps:
